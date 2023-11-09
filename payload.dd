@@ -1,0 +1,7 @@
+GUI r
+DELAY 500
+STRING https://upload.wikimedia.org/wikipedia/commons/5/56/Bsodwindows10.png
+ENTER
+DELAY 1000
+F11
+DELAY 500
